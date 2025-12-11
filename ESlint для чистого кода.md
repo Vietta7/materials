@@ -25,7 +25,6 @@
 |`pnpm run format:check`|`pnpm run format:check`|Проверка формата|
 |`pnpm run check:dead-code`|`pnpm run check:dead-code`|Мертвый код|
 
-## Быстрый старт
 
 **Linux/Mac:**
 
